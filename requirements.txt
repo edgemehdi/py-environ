@@ -18,7 +18,7 @@ pytz==2014.9
 requests==2.4.3
 textblob==0.8.4
 tornado==4.0.2
-urllib3==1.9.1
+urllib3==1.26.5
 wsgiref==0.1.2
 #re2==0.2.20
 beautifulsoup4==4.3.2
